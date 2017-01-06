@@ -1,2 +1,2 @@
 # EnglishDictionary
-C projesi arama ve tüm sözlüğü ekrana döktürme yapıldı yerine ekleme ve güncelleme eklenicek.
+Sözlük.txt'de arama , tüm sözlüğü ekrana döktürme , güncelleme ve sözlüğün sonuna kelime ekleme yapıldı.
